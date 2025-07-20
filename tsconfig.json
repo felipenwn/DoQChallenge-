@@ -9,6 +9,9 @@
     },
     {
       "path": "./tsconfig.vitest.json"
-    }
-  ]
+    },
+  ],
+   "vueCompilerOptions": {
+    "globalTypesPath": "./node_modules/vue/dist/vue.d.ts"
+  }
 }
